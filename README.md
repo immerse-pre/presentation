@@ -1,7 +1,10 @@
 # 📢 6/15 (일) 발표 요약
 
 ## 1. Scheduled 관리 (경현)
-
+- 스케줄 작업을 ScheduleType enum으로 역할별로 분리
+- 각 작업을 ScheduleProcessor 인터페이스로 모듈화해서 확장성을 확보
+- ShedLock을 이용해 여러 서버 간 중복 실행을 방지
+- @Retryable, @Recover를 통해 에러 복구와 재시도 로직
 
 🔗 관련 글: [Scheduler 안정적인 관리 방법](https://velog.io/@gusrudchl12/Scheduled-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95)
 

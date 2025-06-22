@@ -1,3 +1,11 @@
+# 📢 6/22 (일) 발표 요약
+
+## 1. Mroonga (희성)
+
+🔗 관련 글: [Mroonga](https://www.slog.gg/post/13978)
+
+---
+
 # 📢 6/15 (일) 발표 요약
 
 ## 1. Scheduled 관리 (경현)

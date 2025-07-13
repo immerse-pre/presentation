@@ -1,3 +1,7 @@
+# 📢 7/13 (일) 발표 자료
+## 1. 제미나이 CLI : https://www.slog.gg/p/14424
+## 2. 스프링 AI 개발환경 세팅(H2DB, GROQ API) : https://www.slog.gg/p/13984
+
 # 📢 6/22 (일) 발표 요약
 
 ## 1. Mroonga (희성)
@@ -9,7 +13,7 @@
 - 실시간 인덱싱과 빠른 검색 속도
 - 오픈소스이며 무료로 사용 가능
 
-🔗 관련 글: [Mroonga](https://www.slog.gg/post/13978)
+🔗 관련 글: [Mroonga](https://www.slog.gg/p/13978)
 
 ---
 

@@ -1,5 +1,5 @@
 # 📢 8/03 (일) 발표 자료
-## 1. Mroonga로 LIKE 검색 대체 (희성)
+## 1. Mroonga로 LIKE 검색 대체 (희성) : [https://www.slog.gg/p/13987](https://www.slog.gg/p/13987)
 - Mroonga로 LIKE 검색 대체할 수 있다.
 - [영상](https://youtu.be/Tl-E3vbUBcw)
 
@@ -7,7 +7,7 @@
 ## 1. 클로드 코드 : 문서 주소 붙여넣어 주세요.
 - 클로드 코드는 커서를 대체할 수 있다.
 
-## 2. 클로드 데스크톱에서 MCP로 인텔리제이 바이브 코딩 : https://www.slog.gg/p/13985
+## 2. 클로드 데스크톱에서 MCP로 인텔리제이 바이브 코딩 : [https://www.slog.gg/p/13985](https://www.slog.gg/p/13985)
 - IDE의 조작을 LLM이 직접 수행하기 때문에 고품질 바이브 코딩이 가능합니다.
 - [영상](https://youtu.be/W1X62xidRaE)
 
@@ -15,7 +15,7 @@
 ## 1. 제미나이 CLI : https://www.slog.gg/p/14424
 - 제미나이 CLI는 어디서든 편하게 LLM을 이용할 수 있게 해준다.
 
-## 2. 스프링 AI 개발환경 세팅(H2DB, GROQ API) : https://www.slog.gg/p/13984
+## 2. 스프링 AI 개발환경 세팅(H2DB, GROQ API) : [https://www.slog.gg/p/13984](https://www.slog.gg/p/13984)
 - 스프링 AI 개발할 때는 GROQ API 사용하세요.
 - [영상](https://youtu.be/Yldq59yjwBk)
 

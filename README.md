@@ -4,7 +4,7 @@
 - [영상](https://youtu.be/Tl-E3vbUBcw)
 
 # 📢 7/27 (일) 발표 자료
-## 1. 클로드 코드 : 문서 주소 붙여넣어 주세요.
+## 1. 클로드 코드 : [https://velog.io/@sik2_dev/claude-code](https://velog.io/@sik2_dev/claude-code)
 - 클로드 코드는 커서를 대체할 수 있다.
 
 ## 2. 클로드 데스크톱에서 MCP로 인텔리제이 바이브 코딩 : [https://www.slog.gg/p/13985](https://www.slog.gg/p/13985)
